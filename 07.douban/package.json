@@ -1,0 +1,17 @@
+{
+  "name": "douban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "art-template": "^4.12.2",
+    "koa": "^2.5.1",
+    "koa-art-template": "^1.1.1"
+  }
+}
